@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-al4gxh.vestinam.com/sitemap.xml
